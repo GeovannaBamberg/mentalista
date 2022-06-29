@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Joan&display=swap');
+
+body{
+    font-family: 'Joan', serif;
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 2%;
+}
+section{
+    background-color: aquamarine;
+    height: 430px;
+    border-radius: 15% 5%;
+    box-shadow: 5px 5px 5px 5px rgba(16, 176, 122, 0.229);
+}
