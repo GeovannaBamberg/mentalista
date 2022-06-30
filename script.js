@@ -38,7 +38,7 @@ if (numero>respostaMaquina) {
     resposta.innerHTML=(`<p>Este pensamento esta abaixo das expectativas</p>`)  
     
 } else{
-    resposta.innerHTML=(`<p> Quem diria você acertou, atualze a pagina para brincar mais</p>`)  
+    resposta.innerHTML=(`<p> Quem diria você acertou, atualize a pagina para brincar mais</p>`)  
     botaoTentativa.disabled = true
 
 } 
